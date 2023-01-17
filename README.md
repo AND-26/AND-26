@@ -1,17 +1,66 @@
-<h1 align="center">Hola 👋, Me llamo: Andres aunque te puedes dirigir a mi como andrew</h1>
-<h3 align="center">Soy un apasionado del frontend</h3>
 
-- 🌱 Actualmente soy aprendizaje **react a profundidad**
+<div align="center">
+  <div style="background:#000000;">
+<img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="550" />
+  </div>
+</div>
 
-- 💬 Pregúntame sobre **html , css, javascript y react**
+# Hi, I'm Andrew! 👋
+- I am frontend web developer doing all things creative to make the web a more unique and awesome place.
+- Music, anime, basketball and program are my happy places
+- I enjoy bringing a static design or idea to life and learning new technologies.
 
-- 📫 Cómo contactarme **andrew.vi.2610@gmail.com**
 
-<h3 align="left" >Conéctate conmigo:</h3>
-<p align="left">
-<a href="https://dev.to/andrew" target="blank"><img align="center" src="https: //raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="andrew" height="30" width="40" />< /a>
-<a href="https://linkedin.com/in/diego andrés villarreal valencia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github- profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego andrés villarreal valencia" height="30" width="40" /></a>
-</ p>
+## 🚀 About Me
+I was born in Colombia, but I came to Spain when I was 5 years old, it was not difficult for me to get used to a new country, a new city, customs, gastronomy, culture, etc., since I quickly adapt to the circumstances that arise.
 
-<h3 align="left">Idiomas y herramientas:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon /master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com /css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt= "css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href=" https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg " alt="git" ancho="40" altura="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/ > </a> <a href="https://desarrollador.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/ javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel=" noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/ > </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https:// tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40 " altura="40"/> </a> </p>svg" alt="viento de cola" ancho="40" altura="40"/> </a> </p>svg" alt="viento de cola" ancho="40" altura="40"/> </a> </p>
+I have always opted for technology, specifically web development. I have taken courses in the Madrid community on HTML 5, CSS, JavaScript to see what this world offered me and the truth is that it has been very positive.
+
+Thanks to the circumstances that I have had lately, I have not only been able to delve into the technologies (HTML 5, CSS, JavaScript) but I have also been able to learn a library called React and thanks to this I already know what I want to specialize in. my life that is to be:
+Front-End Developer more specifically in React.
+
+This gigantic world has not only allowed me to be a web developer, but thanks to this I have been able to meet people who know a lot about these technologies and others and who encourage me to continue improving in what I want to dedicate myself to.
+
+If you want and have time, send me a message and we not only share experience in the code but also a good chat.
+
+All the best.
+
+
+## 🛠 Skills
+
+<div align="center">
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="react" alt="react" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="70" height="70" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="70" height="70"/>&nbsp;
+ 
+</div>
+</div>
+
+## Other Common Github Profile Sections
+👩‍💻 I am currently working on a react project called: Cafe de Altura
+
+🧠 I'm currently learning react in depth
+
+💬 Ask me about: HTML, CSS, JavaScript and ReactJS
+
+📫 How to reach me : www.linkedin.com/in/and26
+
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/and26)
+
+## GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AND-26&theme=violet-punch)](https://git.io/streak-stats)
+
+<h2>Talk to you soon!</h2>
+</div>
+
+![](https://komarev.com/ghpvc/?username=AND-26&style=for-the-badge)
