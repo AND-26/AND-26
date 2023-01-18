@@ -59,6 +59,7 @@ All the best.
 ## GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AND-26&theme=violet-punch)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=AND/26&show_icons=true&theme=ADD_THEME_HERE" width="400">
 
 <h2>Talk to you soon!</h2>
 </div>
