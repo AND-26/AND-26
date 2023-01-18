@@ -57,7 +57,8 @@ All the best.
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/and26)
 
 ## GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=AND/26&show_icons=true&theme=ADD_THEME_HERE" width="400">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AND-26)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AND-26)](https://git.io/streak-stats)
 
 <h2>Talk to you soon!</h2>
 </div>
